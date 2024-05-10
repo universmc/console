@@ -1,0 +1,20 @@
+{
+    "@mistralai/mistralai": "Une bibliothèque JavaScript pour la traduction automatique, basée sur l'intelligence artificielle. Elle permet la traduction de textes et d'audios en plusieurs langues.",
+    "@notionhq/client": "Un client Node.js non officiel pour l'API Notion. Il vous permet d'interagir avec les API Notion depuis votre application Node.js.",
+    "@sanity/image-url": "Une bibliothèque JavaScript pour générer des URL d'image à partir de références d'image Sanity.",
+    "@sanity/vision": "Le kit de démarrage de Sanity, un système de gestion de contenu headless pour construire des espaces de travail de gestion de contenu personnalisés.",
+    "axios": "Une bibliothèque JavaScript promise-based pour les requêtes HTTP client et server-side.",
+    "emoji-picker-element": "Un élément Web léger et réactif pour choisir des emojis.",
+    "emoji-picker-element-data": "Un ensemble de données pour l'élément emoji-picker-element, incluant la liste des emojis et leurs catégories.",
+    "express": "Un framework Node.js minimaliste et flexible pour les applications web et les APIs.",
+    "graphql": "Une bibliothèque JavaScript de référence pour la construction et le traitement des requêtes GraphQL.",
+    "groq-sdk": "Un kit de développement logiciel (SDK) pour interagir avec la base de données Sanity.io via le langage de requête GROQ (GraphQL-like Object Query Language).",
+    "next": "Un framework React populaire pour créer des applications web statiques et server-rendered.",
+    "next-sanity": "Un package de liaison pour intégrer facilement Sanity à une application Next.js.",
+    "sanity": "Le client Node.js pour interagir avec l'API de contenu de Sanity.io.",
+    "sass": "Une bibliothèque JavaScript pour compiler les fichiers SASS en CSS.",
+    "stack": "Un framework de création d'API Node.js basé sur Express et TypeScript.",
+    "styled-components": "Une bibliothèque CSS-in-JS pour écrire des styles CSS encapsulés pour vos composants React.",
+    "yest": "Un méta-framework pour la création d'applications web avec JavaScript, basé sur Express et Socket.IO."
+    }
+    
